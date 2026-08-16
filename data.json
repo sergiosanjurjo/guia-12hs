@@ -1,1 +1,1477 @@
-{}
+{
+  "equipos": [
+    "PAE-002",
+    "PAE-003",
+    "PAE-004",
+    "PAE-005",
+    "PAE-006",
+    "PAE-007",
+    "DLS-160"
+  ],
+  "personal": [
+    {
+      "id": 74,
+      "nombre": "ABRAHAM GABRIEL",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 94,
+      "nombre": "ALFEO EDUARDO",
+      "funcion": "WWRR"
+    },
+    {
+      "id": 1,
+      "nombre": "ALVARADO PATRICIO OSCAR",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 50,
+      "nombre": "ALVARADO RICARDO ABEL",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 38,
+      "nombre": "ALVAREZ ROBERTO ENRIQUE",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 104,
+      "nombre": "ARAGON LUCAS",
+      "funcion": "Inyeccionista"
+    },
+    {
+      "id": 2,
+      "nombre": "BAIGORRIA GUILLERMO NICOLAS",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 21,
+      "nombre": "BARRÍA JUAN AGUSTÍN",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 39,
+      "nombre": "BARRÍA MARCELO ALEJANDRO",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 3,
+      "nombre": "BARRIENTOS FABIAN ALEJANDRO",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 51,
+      "nombre": "BAYO CARLOS ARIEL",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 92,
+      "nombre": "BIFANO GERARDO",
+      "funcion": "WWRR"
+    },
+    {
+      "id": 22,
+      "nombre": "BOZZINI BRUNO MARTIN",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 52,
+      "nombre": "BUSTAMANTE DIEGO ARMANDO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 86,
+      "nombre": "CANAÁN ALDO",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 93,
+      "nombre": "CASTILLO PABLO",
+      "funcion": "WWRR"
+    },
+    {
+      "id": 99,
+      "nombre": "CAUCAMAN SERGIO",
+      "funcion": "Inyeccionista"
+    },
+    {
+      "id": 40,
+      "nombre": "CID WALTER RUBEN",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 23,
+      "nombre": "DE LA CRUZ FERNANDO NICOLAS",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 4,
+      "nombre": "DEMARTINI FERNANDO ANDRES",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 80,
+      "nombre": "DENDI RODRIGO",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 17,
+      "nombre": "DI LORENZO, WALTER RUBEN",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 106,
+      "nombre": "DIAS ANTONIO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 5,
+      "nombre": "DIAS GAGO EDUARDO MARTIN",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 31,
+      "nombre": "DIAZ EDUARDO ANTONIO",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR - HP"
+    },
+    {
+      "id": 98,
+      "nombre": "DUBOIS CRISTIAN",
+      "funcion": "Inyeccionista"
+    },
+    {
+      "id": 32,
+      "nombre": "DURE, MAURO SEBASTIAN",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR - HP"
+    },
+    {
+      "id": 24,
+      "nombre": "ESTEFO ZUÑIGA MAXIMILIANO",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 109,
+      "nombre": "FABIÁN RIVERA",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 102,
+      "nombre": "FERNANDEZ JUAN",
+      "funcion": "Inyeccionista"
+    },
+    {
+      "id": 105,
+      "nombre": "FLORES JORGE",
+      "funcion": "Inyeccionista"
+    },
+    {
+      "id": 82,
+      "nombre": "GARBUIO MARIO",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 6,
+      "nombre": "GARCIA JOSE GONZALO",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 41,
+      "nombre": "GARRIDO RAUL RICARDO",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 42,
+      "nombre": "GHISLA PABLO DANIEL",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 65,
+      "nombre": "GUEICHA, JOSE ALEJANDRO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 72,
+      "nombre": "GUERREIRO ESTEBAN",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 103,
+      "nombre": "GUTIERREZ JOAQUIN",
+      "funcion": "Inyeccionista"
+    },
+    {
+      "id": 7,
+      "nombre": "HERRERA EDUARDO NICOLAS",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 53,
+      "nombre": "HUEICHA PEDRO EMILIANO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 25,
+      "nombre": "INDALECIO NELSON ROSENDO",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 78,
+      "nombre": "JINDRA ALEJANDRA",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 43,
+      "nombre": "KARPINSKI JOSE GABRIEL",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 54,
+      "nombre": "LAGOS ANGEL EZEQUIEL",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 16,
+      "nombre": "LEAL ALEJANDRO JAVIER",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 44,
+      "nombre": "LEDESMA LARRAURI JULIO FERNANDO",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 26,
+      "nombre": "LESCANO BRIAN LEONARDO",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 27,
+      "nombre": "LEZCANO PABLO CESAR",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 28,
+      "nombre": "LILLO DIEGO ALEX",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 77,
+      "nombre": "LOSINNO LUCIANO",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 8,
+      "nombre": "LLANCALAHUEN CARLOS ADRIAN",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 45,
+      "nombre": "MACHADO CARLOS ALEJANDRO",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 107,
+      "nombre": "MANSILLA FACUNDO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 33,
+      "nombre": "MANSILLA, FACUNDO DARIO",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR - HP"
+    },
+    {
+      "id": 29,
+      "nombre": "MARADONA, DIEGO RAFAEL",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 71,
+      "nombre": "MARTINEZ CESAR",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 34,
+      "nombre": "MARTINEZ, GUSTAVO HORACIO",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR - HP"
+    },
+    {
+      "id": 9,
+      "nombre": "MATUS EDUARDO SEBASTIAN",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 84,
+      "nombre": "MELGAREJO ATILIO",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 30,
+      "nombre": "MELIAN DIEGO ROBERTO",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR"
+    },
+    {
+      "id": 55,
+      "nombre": "MENDEZ OMAR EXEQUIEL",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 46,
+      "nombre": "MENTASTI DIEGO SEBASTIAN",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 15,
+      "nombre": "MERCADO EDUARDO DAVID",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 66,
+      "nombre": "MERCADO, JORGE EMANUEL",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 97,
+      "nombre": "MIGUEL DANIEL",
+      "funcion": "Inyeccionista"
+    },
+    {
+      "id": 76,
+      "nombre": "MOGLIANI AGUSTIN",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 75,
+      "nombre": "MOLINA FACUNDO",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 67,
+      "nombre": "MOLINA, DIEGO EDGARDO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 70,
+      "nombre": "MONETTI NAHUEL",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 95,
+      "nombre": "MONTOYA JOSE",
+      "funcion": "WWRR"
+    },
+    {
+      "id": 56,
+      "nombre": "MOYA OSCAR ARTURO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 35,
+      "nombre": "NAVARRO ORTIGOZA, SANTIAGO JAVIER",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR - HP"
+    },
+    {
+      "id": 57,
+      "nombre": "NECUÑIR MARCOS ARIEL",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 10,
+      "nombre": "OJEDA CARLOS OMAR",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 58,
+      "nombre": "OJEDA LUCIANO ADÁN",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 59,
+      "nombre": "OJEDA SERGIO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 96,
+      "nombre": "PAZ JORGE",
+      "funcion": "WWRR"
+    },
+    {
+      "id": 73,
+      "nombre": "PERALES SEBASTIAN",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 68,
+      "nombre": "PHILLIPS JORGE ANDRES",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 11,
+      "nombre": "PUEBLA CARLOS OSCAR",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 47,
+      "nombre": "QUIDEL MARCELO HERNAN",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 36,
+      "nombre": "REYES BORRAS, IVAN GONZALO",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR - HP"
+    },
+    {
+      "id": 79,
+      "nombre": "RIGOLETTI FERNANDO",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 85,
+      "nombre": "RIVERO ROMINA",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 81,
+      "nombre": "RODRIGUEZ CONSTANZA",
+      "funcion": "CoMan"
+    },
+    {
+      "id": 12,
+      "nombre": "ROJAS RAÚL ANTONIO",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 100,
+      "nombre": "ROLDAN DAMIAN",
+      "funcion": "Inyeccionista"
+    },
+    {
+      "id": 60,
+      "nombre": "RUIZ VASQUEZ PABLO ALBERTO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 91,
+      "nombre": "SALINAS DIEGO",
+      "funcion": "WWRR"
+    },
+    {
+      "id": 61,
+      "nombre": "SANDOVAL RODRIGO EDUARDO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 18,
+      "nombre": "SILVA, ANGEL ROLANDO",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 62,
+      "nombre": "TORRES MARIO RENE",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 19,
+      "nombre": "TREVISAN NICOLAS ANTONIO",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 69,
+      "nombre": "TRONCOSO, ANIBAL EXEQUIEL",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 13,
+      "nombre": "ULLOA WALTER ADRIAN",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 63,
+      "nombre": "VALDEZ RUBÉN ELISANDRO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 48,
+      "nombre": "VALLEJOS CRISTIAN AMADO",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 101,
+      "nombre": "VARAS CESAR",
+      "funcion": "Inyeccionista"
+    },
+    {
+      "id": 108,
+      "nombre": "VÁSQUEZ MARCELO",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 37,
+      "nombre": "VAZQUEZ, MARCELO OMAR",
+      "funcion": "ENGANCHADOR RELEVO DE PERFORADOR - HP"
+    },
+    {
+      "id": 49,
+      "nombre": "VERA FRANCO ARIEL",
+      "funcion": "JEFE DE EQUIPO"
+    },
+    {
+      "id": 14,
+      "nombre": "VERA GERMAN EDUARDO",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 64,
+      "nombre": "VIDAL JUAN CARLOS",
+      "funcion": "PERFORADOR"
+    },
+    {
+      "id": 20,
+      "nombre": "ZARATE PABLO GASTON",
+      "funcion": "ENCARGADO DE TURNO"
+    },
+    {
+      "id": 200,
+      "nombre": "LOSINNO LUCIANO",
+      "funcion": "WOC"
+    },
+    {
+      "id": 201,
+      "nombre": "MORALES YIMY",
+      "funcion": "WOC"
+    },
+    {
+      "id": 202,
+      "nombre": "VILLAREAL HECTOR",
+      "funcion": "WOC"
+    },
+    {
+      "id": 203,
+      "nombre": "PAZ JORGE",
+      "funcion": "WOC"
+    },
+    {
+      "id": 204,
+      "nombre": "SANJURJO",
+      "funcion": "CoMan"
+    }
+  ],
+  "risk": [
+    {
+      "id": 65,
+      "actividad": "46 -ACONDICIONA P/INICIO Y ARMA BHA",
+      "riesgos": "LÍNEA DE FUEGO. VEHÍCULO EN MOVIMIENTO",
+      "mitigacion": "COMUNICACIÓN CONTACTO VISUAL, DELIMITACIÓN DE LA ZONA DEL MANIPULADOR TELESCÓPICO. CHALECO DEBIDAMENTE IDENTIFICADO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 66,
+      "actividad": "46 -ACONDICIONA P/INICIO Y ARMA BHA",
+      "riesgos": "ATRAPAMIENTO ENTRE OBJETOS/PELLIZCOS.",
+      "mitigacion": "COMUNICACIÓN Y CONTACTO VISUAL ENTRE OPERARIOS.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 67,
+      "actividad": "46 -ACONDICIONA P/INICIO Y ARMA BHA",
+      "riesgos": "PROYECCIÓN DE CALIBRE/USO DE AIRE COMPRIMIDO.",
+      "mitigacion": "NO EXPONERSE A LA SALIDA DEL CALIBRE NI A LA SALIDA DEL AIRE COMPRIMIDO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 68,
+      "actividad": "46 -ACONDICIONA P/INICIO Y ARMA BHA",
+      "riesgos": "MANIPULACIÓN DE CABEZA ELEVADORAS.",
+      "mitigacion": "USO CORRECTO DEL GUINCHE, BALANCE ADECUADO DE LA CARGA / ESLINGA CERTIFICADA.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 69,
+      "actividad": "46 -ACONDICIONA P/INICIO Y ARMA BHA",
+      "riesgos": "CAIDA EN DISTINTO NIVEL Y MISMO NIVEL.",
+      "mitigacion": "GARANTIZAR BARANDA DE PLANO INCLINADO CERRADA. USAR SAL EN PISO DE TRABAJO SI LO REQUIERE.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 70,
+      "actividad": "46 -ACONDICIONA P/INICIO Y ARMA BHA",
+      "riesgos": "GOLPES POR PROYECCIÓN DE PARTÍCULAS",
+      "mitigacion": "USAR PROTECCIÓN OCULAR/FACIAL. NO EXPONERSE A LA LÍNEA DE FUEGO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 71,
+      "actividad": "46 -ACONDICIONA P/INICIO Y ARMA BHA",
+      "riesgos": "DERRAMES EN LOCACIÓN, BOCA DE POZO Y/O REBALSE EN PILETAS.",
+      "mitigacion": "VERIFICAR NIVEL EN CELLAR. COMUNICACIÓN Y CONTACTO VISUAL ENTRE OPERARIOS.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 72,
+      "actividad": "46 -ACONDICIONA P/INICIO Y ARMA BHA",
+      "riesgos": "ATASCAMIENTO DE CABLE/HERRAMIENTA",
+      "mitigacion": "VERIFICAR POSICIÓN DE PLUMA Y CABLE DE GUINCHE, VERIFICACIÓN DE RETENIDA.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 73,
+      "actividad": "50 -PERFORA GUIA SIN DIVERTER",
+      "riesgos": "APRISIONAMIENTO DE BHA.",
+      "mitigacion": "PARAMETROS OPERATIVOS Y REOLOGÍA SEGÚN PROGRAMA. EVITAR SOBRETRACCIONAR SARTA.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 74,
+      "actividad": "50 -PERFORA GUIA SIN DIVERTER",
+      "riesgos": "PESCA POR PERDIDA DE BHA /SONDEO",
+      "mitigacion": "UTILIZAR COLLARIN DE SEGURIDAD CERTIFICADO. VERIFICAR TORQUES DE CONEXIÓN.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 75,
+      "actividad": "50 -PERFORA GUIA SIN DIVERTER",
+      "riesgos": "DERRAMES EN LOCACIÓN, BOCA DE POZO Y/O REBALSE EN PILETAS.",
+      "mitigacion": "CIRCULAR EN LOS PRIMEROS METROS CON BAJO CAUDAL PARA EVITAR CANALIZACIÓN.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 76,
+      "actividad": "50 -PERFORA GUIA SIN DIVERTER",
+      "riesgos": "EXPOSICIÓN A GOLPES POR OBJETOS Y PROYECCIÓN DE PARTÍCULAS.",
+      "mitigacion": "USAR PROTECCION OCULAR/FACIAL. NO EXPONERSE A LA LINEA DE FUEGO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 77,
+      "actividad": "50 -PERFORA GUIA SIN DIVERTER",
+      "riesgos": "CAÍDAS DE ELEMENTOS EN ALTURA.",
+      "mitigacion": "VERIFICAR CHECK LIST PRE OPERATIVO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 78,
+      "actividad": "50 -PERFORA GUIA SIN DIVERTER",
+      "riesgos": "CAIDAS A MISMO NIVEL/DISTINTO NIVEL.",
+      "mitigacion": "MANTENER ORDEN Y LIMPIEZA EN BDP. MANTENER PORTONES CERRADOS EN PISO DE TRABAJO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 79,
+      "actividad": "50 -PERFORA GUIA SIN DIVERTER",
+      "riesgos": "CAIDA DE OBJETOS DENTRO DE HTA / POZO.",
+      "mitigacion": "VERIFICAR ESTADO DE HTAS EN BOCA DE POZO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 80,
+      "actividad": "50 -PERFORA GUIA SIN DIVERTER",
+      "riesgos": "INFLUJO PERFORANDO.",
+      "mitigacion": "CUMPLIR / VERIFICAR DENSIDAD Y PROPIEDADES DE LODO SEGÚN PROGRAMA.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 81,
+      "actividad": "50 -PERFORA GUIA SIN DIVERTER",
+      "riesgos": "ASENTAMIENTO DE PESO POR ENCIMA DEL PERMITIDO.",
+      "mitigacion": "SETEAR PARAMETROS OPERATIVOS Y ALARMAS SEGÚN PROGRAMA/IO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 82,
+      "actividad": "59 -MANIOBRA - TRAMO GUIA",
+      "riesgos": "APRISIONAMIENTO DE BHA / SONDEO",
+      "mitigacion": "SETEAR PARAMETROS OPERATIVOS Y ALARMAS SEGÚN PROGRAMA. CUMPLIR CON PROGRAMA DE LODO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 83,
+      "actividad": "59 -MANIOBRA - TRAMO GUIA",
+      "riesgos": "PEGA DIFERENCIAL POR BHA ESTÁTICO",
+      "mitigacion": "CUMPLIR CON PROGRAMA DE LODO. SIEMPRE DEJAR BHA EN MOVIMIENTO Y CON CAUDAL.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 84,
+      "actividad": "59 -MANIOBRA - TRAMO GUIA",
+      "riesgos": "EXPOSICIÓN A GOLPES POR OBJETOS Y PROYECCIÓN DE PARTÍCULAS.",
+      "mitigacion": "LIBERAR ZONA DE TRABAJO LUEGO DEL AGREGADO, NO EXPONERSE A LA LÍNEA DE FUEGO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 85,
+      "actividad": "59 -MANIOBRA - TRAMO GUIA",
+      "riesgos": "SOBRETENSIÓN EXCESIVAS EN BDP.",
+      "mitigacion": "LIBERAR ZONA DE TRABAJO. NO EXPONERSE A LA LÍNEA DE FUEGO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 86,
+      "actividad": "59 -MANIOBRA - TRAMO GUIA",
+      "riesgos": "CAÍDAS DE ELEMENTOS EN ALTURA.",
+      "mitigacion": "VERIFICACIÓN DE SUJECIÓN DE ELEMENTOS EN ALTURA, PREVIO AL INICIO DE LAS OPERACIONES.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 87,
+      "actividad": "59 -MANIOBRA - TRAMO GUIA",
+      "riesgos": "CAIDA DE OBJETOS DENTRO DE HTA / POZO.",
+      "mitigacion": "VERIFICAR ESTADO DE HTAS EN BOCA DE POZO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 88,
+      "actividad": "59 -MANIOBRA - TRAMO GUIA",
+      "riesgos": "ASENTAMIENTO DE PESO POR ENCIMA DEL PERMITIDO.",
+      "mitigacion": "SETEAR PARAMETROS OPERATIVOS Y ALARMAS SEGÚN PROGRAMA.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 89,
+      "actividad": "59 -MANIOBRA - TRAMO GUIA",
+      "riesgos": "DERRAMES DE FLUIDOS.",
+      "mitigacion": "VERIFICAR FUNCIONAMIENTO DE CHUPADOR.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 90,
+      "actividad": "59 -MANIOBRA - TRAMO GUIA",
+      "riesgos": "INFLUJO EN MANIOBRA.",
+      "mitigacion": "CONTROLAR FUNCIONAMIENTO DE TRIP TANK. COMPLETAR PLANILLA DE LLENADO/DESPLAZAMIENTO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 91,
+      "actividad": "67 -ENTUBACIÓN & CEMENTACIÓN",
+      "riesgos": "PEGA DIFERENCIAL POR CSG ESTÁTICO. APRISIONAMIENTO DE CSG.",
+      "mitigacion": "MINIMIZAR TIEMPO DE CONEXION. MANTENER CGS EN MOVIMIENTO CON CAUDAL.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 92,
+      "actividad": "67 -ENTUBACIÓN & CEMENTACIÓN",
+      "riesgos": "PERDIDA DE CSG POR TORQUE INCORRECTO.",
+      "mitigacion": "VERIFICAR Y CONTROLAR TORQUE DE CSG SEGÚN PROGRAMA. CORRECTA LIMPIEZA DE ROSCAS.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 93,
+      "actividad": "67 -ENTUBACIÓN & CEMENTACIÓN",
+      "riesgos": "CAÍDAS DE ELEMENTOS EN ALTURA.",
+      "mitigacion": "VERIFICACIÓN DE SUJECIÓN DE ELEMENTOS EN ALTURA.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 94,
+      "actividad": "67 -ENTUBACIÓN & CEMENTACIÓN",
+      "riesgos": "CAIDA DE OBJETOS DENTRO DE HTA / POZO.",
+      "mitigacion": "VERIFICAR ESTADO DE HTAS EN BOCA DE POZO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 95,
+      "actividad": "67 -ENTUBACIÓN & CEMENTACIÓN",
+      "riesgos": "GOLPES, PROYECCIÓN DE PARTÍCULAS Y PRESIONES EN BOCA DE POZO.",
+      "mitigacion": "USAR PROTECCION OCULAR/FACIAL. NO EXPONERSE A LA LINEA DE FUEGO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 96,
+      "actividad": "67 -ENTUBACIÓN & CEMENTACIÓN",
+      "riesgos": "GOLPES Y APRISIONAMIENTOS.",
+      "mitigacion": "LIBERAR ZONA DE TRABAJO, NO EXPONERSE A LA LÍNEA DE FUEGO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 97,
+      "actividad": "67 -ENTUBACIÓN & CEMENTACIÓN",
+      "riesgos": "PERDIDA DE CAÑERÍA.",
+      "mitigacion": "UTILIZAR COLLARIN DE SEGURIDAD LOS PRIMEROS 200 M.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 98,
+      "actividad": "67 -ENTUBACIÓN & CEMENTACIÓN",
+      "riesgos": "COLISION CON MANIPULADOR TELESCOPICO.",
+      "mitigacion": "SEÑALIZACIÓN DE LA ZONA. DISPONER DE SEÑALERO. PERSONAL COMPETENTE HABILITADO.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 99,
+      "actividad": "67 -ENTUBACIÓN & CEMENTACIÓN",
+      "riesgos": "INFLUJO ENTUBANDO.",
+      "mitigacion": "REALIZAR PRUEBAS PREVIAS DEL EQUIPAMIENTO DE CONTROL DE POZO. VERIFICAR FOSV.",
+      "seccion": "GUIA"
+    },
+    {
+      "id": 100,
+      "actividad": "206 - PRUEBA DE BOP Y CSG",
+      "riesgos": "LIBERACIÓN DE PRESIÓN.",
+      "mitigacion": "REALIZAR FLUYEO DE LINEA ANTES DE INICAR PRUEBA. NO ABRIR NI CERRAR VALVULA SIN AUTORIZACION.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 101,
+      "actividad": "206 - PRUEBA DE BOP Y CSG",
+      "riesgos": "PROYECCIÓN DE FLUIDOS U OBJETOS A PRESIÓN.",
+      "mitigacion": "EVITAR EXPOSICIÓN A LÍNEAS PRESURIZADAS. DELIMITACIÓN DEL SECTOR.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 102,
+      "actividad": "206 - PRUEBA DE BOP Y CSG",
+      "riesgos": "OBSTRUCCIÓN/CONGELAMIENTO.",
+      "mitigacion": "PURGA Y VENTEO DE LINEAS. EVITAR TIEMPOS PROLONGADOS CON FLUIDO ESTÁTICO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 103,
+      "actividad": "206 - PRUEBA DE BOP Y CSG",
+      "riesgos": "SOBREPRESIÓN.",
+      "mitigacion": "REALIZAR PRESURIZACIÓN A BAJO REGIMEN DE BOMBAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 104,
+      "actividad": "206 - PRUEBA DE BOP Y CSG",
+      "riesgos": "SUPERAR PRESION RWP.",
+      "mitigacion": "TENER IDENTIFICADO LA PRESIÓN MÁXIMA DE TRABAJO DEL ELEMENTO MÁS DÉBIL.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 105,
+      "actividad": "206 - PRUEBA DE BOP Y CSG",
+      "riesgos": "CAIDA DE MISMO NIVEL Y OTRO NIVEL.",
+      "mitigacion": "MANTENER ORDEN Y LIMPIEZA EN BDP. MANTENER PORTONES CERRADOS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 106,
+      "actividad": "205 - 206 - MONTAJE CABEZAL Y BOP",
+      "riesgos": "CAIDA DE OTRO NIVEL.",
+      "mitigacion": "CHEQUEAR ESTADO DE PISOS DE BOP. USO DE ARNÉS Y LINEA DE VIDA.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 107,
+      "actividad": "205 - 206 - MONTAJE CABEZAL Y BOP",
+      "riesgos": "ATRAPAMIENTO, CAIDA DE OBJETO, CARGAS SUSPENDIDAS.",
+      "mitigacion": "COORDINACIÓN DE TAREAS. VERIFICAR ELEMENTOS DE IZAJE. USO DE RETENIDA.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 108,
+      "actividad": "205 - 206 - MONTAJE CABEZAL Y BOP",
+      "riesgos": "LIBERACIÓN REPENTINA DE PRESION.",
+      "mitigacion": "NO EXPONERSE A LA LINEA DE FUEGO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 109,
+      "actividad": "205 - 206 - MONTAJE CABEZAL Y BOP",
+      "riesgos": "APRISIONAMIENTO DE MANOS, GOLPE EN MANOS.",
+      "mitigacion": "COORDINACIÓN DE TAREAS. USO DE EPP ADECUADOS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 110,
+      "actividad": "205 - 206 - MONTAJE CABEZAL Y BOP",
+      "riesgos": "PROYECCION DE FLUIDO SOMETIDOS A PRESIÓN.",
+      "mitigacion": "NO AJUSTAR LÍNEAS PRESURIZADAS. USO DE ANILLO ACORDE.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 111,
+      "actividad": "205 - 206 - MONTAJE CABEZAL Y BOP",
+      "riesgos": "USO MANIPULADOR TELESCÓPICO.",
+      "mitigacion": "COMUNICACIÓN Y CONTACTO VISUAL. NO POSICIONARSE EN LÍNEA DE FUEGO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 112,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "CAIDA DE OBJETO / GOLPE POR OBJETO. ATRAPAMIENTO.",
+      "mitigacion": "POSICIONAMIENTO ADECUADO Y VISIBILIDAD. COMUNICACIÓN.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 113,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "CARGAS SUSPENDIDAS.",
+      "mitigacion": "USO DE RETENIDA. USO CORRECTO DEL GUINCHE.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 114,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "APRISIONAMIENTO Y GOLPES DE MANOS.",
+      "mitigacion": "COORDINACIÓN DE TAREAS. USO DE EPP ADECUADOS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 115,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "CAIDA A DISTINTO Y MISMO NIVEL",
+      "mitigacion": "USO DE EPP. MANTENER ORDEN Y LIMPIEZA EN PISO DE TRABAJO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 116,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "CAIDA DE BHA Y/O HERRAMIENTA.",
+      "mitigacion": "USO DE COLLARIN CERTIFICADO. CHEQUEO DE EQUIPAMIENTO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 117,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "PROYECCIÓN DE CALIBRE / USO DE AIRE COMPRIMIDO.",
+      "mitigacion": "NO EXPONERSE A LA SALIDA DEL CALIBRE NI DEL AIRE COMPRIMIDO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 118,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "GOLPES, PROYECCIÓN DE PARTÍCULAS POR LINEAS PRESURIZADAS.",
+      "mitigacion": "CUMPLIMIENTO DE PARÁMETROS OPERATIVOS Y SETEO DE ALARMAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 119,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "INFLUJO.",
+      "mitigacion": "CUMPLIR CON PROGRAMA DE SIMULACROS DE CONTROL DE POZOS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 120,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "USO MANIPULADOR TELESCÓPICO.",
+      "mitigacion": "DELIMITACIÓN DE LA ZONA OPERATIVA. PERSONAL COMPETENTE.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 121,
+      "actividad": "242 - 243 - 244 - 248 - ACONDICIONA P/INICIO Y ARMADO DE BHA + ROTADO",
+      "riesgos": "CONGELAMIENTO.",
+      "mitigacion": "USO DE SAL SOBRE SUPERFICIES CONGELADAS. REVISION DE MANOMETROS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 122,
+      "actividad": "360 - PERFORACIÓN TRAMO AISLACIÓN",
+      "riesgos": "APRISIONAMIENTO DE BHA / SONDEO.",
+      "mitigacion": "CUMPLIR CON PROGRAMA DE LODO. NO DEJAR HTA ESTÁTICA.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 123,
+      "actividad": "360 - PERFORACIÓN TRAMO AISLACIÓN",
+      "riesgos": "EXPOSICIÓN A GOLPES POR OBJETOS.",
+      "mitigacion": "LIBERAR ZONA DE TRABAJO. NO EXPONERSE A LA LÍNEA DE FUEGO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 124,
+      "actividad": "360 - PERFORACIÓN TRAMO AISLACIÓN",
+      "riesgos": "SOBRETENSIÓN EXCESIVAS EN BDP.",
+      "mitigacion": "VERIFICACION DE TENDENCIAS DE ARRASTRE.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 125,
+      "actividad": "360 - PERFORACIÓN TRAMO AISLACIÓN",
+      "riesgos": "CAÍDAS DE ELEMENTOS EN ALTURA.",
+      "mitigacion": "VERIFICACIÓN DE SUJECIÓN DE ELEMENTOS EN ALTURA.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 126,
+      "actividad": "360 - PERFORACIÓN TRAMO AISLACIÓN",
+      "riesgos": "VIBRACIONES.",
+      "mitigacion": "VERIFICAR Y CUMPLIR PLANILLA T&D.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 127,
+      "actividad": "360 - PERFORACIÓN TRAMO AISLACIÓN",
+      "riesgos": "CAIDA DE OBJETOS DENTRO DE HTA / POZO.",
+      "mitigacion": "VERIFICAR CHECK LIST PRE OPERATIVO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 128,
+      "actividad": "360 - PERFORACIÓN TRAMO AISLACIÓN",
+      "riesgos": "OBSTRUCCIÓN INTERIOR DE HTA.",
+      "mitigacion": "USAR FILTRO DE BARRAS. EN POZOS CWD REVISAR FILTROS DE BOMBAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 129,
+      "actividad": "360 - PERFORACIÓN TRAMO AISLACIÓN",
+      "riesgos": "ASENTAMIENTO DE PESO POR ENCIMA DEL PERMITIDO.",
+      "mitigacion": "SETEAR PARAMETROS OPERATIVOS Y ALARMAS SEGÚN PROGRAMA.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 130,
+      "actividad": "360 - PERFORACIÓN TRAMO AISLACIÓN",
+      "riesgos": "INFLUJO PERFORANDO.",
+      "mitigacion": "VERIFICAR ALINEACIÓN DE CHOKE MANIFOLD PARA CIERRE DURO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 131,
+      "actividad": "390 -MANIOBRA TRAMO AISLACIÓN",
+      "riesgos": "APRISIONAMIENTO DE BHA / SONDEO.",
+      "mitigacion": "SETEAR PARAMETROS OPERATIVOS Y ALARMAS SEGÚN PROGRAMA E IO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 132,
+      "actividad": "390 -MANIOBRA TRAMO AISLACIÓN",
+      "riesgos": "PEGA DIFERENCIAL POR BHA ESTÁTICO",
+      "mitigacion": "CUMPLIR CON PROGRAMA DE LODO. NO DEJAR ESTÁTICO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 133,
+      "actividad": "390 -MANIOBRA TRAMO AISLACIÓN",
+      "riesgos": "EXPOSICIÓN A GOLPES Y PROYECCIÓN DE PARTÍCULAS.",
+      "mitigacion": "LIBERAR ZONA DE TRABAJO. NO EXPONERSE A LA LÍNEA DE FUEGO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 134,
+      "actividad": "390 -MANIOBRA TRAMO AISLACIÓN",
+      "riesgos": "SOBRETENSIÓN EXCESIVAS EN BDP.",
+      "mitigacion": "SETEAR PARAMETROS SEGÚN PROGRAMA. LIBERAR ZONA DE BOCA DE POZO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 135,
+      "actividad": "390 -MANIOBRA TRAMO AISLACIÓN",
+      "riesgos": "CAÍDAS DE ELEMENTOS EN ALTURA.",
+      "mitigacion": "VERIFICAR CHECK LIST PRE OPERATIVO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 136,
+      "actividad": "390 -MANIOBRA TRAMO AISLACIÓN",
+      "riesgos": "CAIDA DE OBJETOS DENTRO DE HTA / POZO.",
+      "mitigacion": "VERIFICAR PESO Y TORQUES SEGÚN PROGRAMA.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 137,
+      "actividad": "390 -MANIOBRA TRAMO AISLACIÓN",
+      "riesgos": "ASENTAMIENTO DE PESO POR ENCIMA DEL PERMITIDO.",
+      "mitigacion": "SETEAR PARAMETROS OPERATIVOS Y ALARMAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 138,
+      "actividad": "390 -MANIOBRA TRAMO AISLACIÓN",
+      "riesgos": "INFLUJO EN MANIOBRA.",
+      "mitigacion": "VERIFICAR ALINEACIÓN DE CHOKE MANIFOLD. CONTROLAR TRIP TANK.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 139,
+      "actividad": "392 -PERFILAJE",
+      "riesgos": "PESCA HERRAMIENTA DE WL.",
+      "mitigacion": "NO EXCEDER LIMITES OPERATIVOS. ORDEN Y LIMPIEZA EN BOCA DE POZO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 140,
+      "actividad": "392 -PERFILAJE",
+      "riesgos": "ATRAPAMIENTO DE CABLE Y/O HERRAMIENTA",
+      "mitigacion": "REALIZAR PULL TEST SEGÚN PROGRAMA.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 141,
+      "actividad": "392 -PERFILAJE",
+      "riesgos": "CARGAS SUSPENDIDAS. CABLE EN TENSION.",
+      "mitigacion": "NO COLOCARSE DEBAJO DE CARGA SUSPENDIDA. USAR RETENIDA.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 142,
+      "actividad": "392 -PERFILAJE",
+      "riesgos": "CAÍDA DE ELEMENTOS DESDE ALTURA.",
+      "mitigacion": "ORDEN Y LIMPIEZA. COORDINACIÓN DE TAREAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 143,
+      "actividad": "392 -PERFILAJE",
+      "riesgos": "USO DE FUENTES RADIOACTIVAS.",
+      "mitigacion": "DELIMITAR ZONA. CARTELERÍA ADECUADA. PERSONAL HABILITADO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 144,
+      "actividad": "392 -PERFILAJE",
+      "riesgos": "DESCONTROL POR INFLUJO.",
+      "mitigacion": "CONTROLAR NIVEL DE TRIP TANK. VERIFICAR ALINEACIÓN PARA CIERRE DURO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 145,
+      "actividad": "411 -ENTUBACIÓN TRAMO AISLACIÓN",
+      "riesgos": "PEGA DIFERENCIAL POR CSG ESTÁTICO",
+      "mitigacion": "MANTENER CSG EN MOVIMIENTO CON CAUDAL.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 146,
+      "actividad": "411 -ENTUBACIÓN TRAMO AISLACIÓN",
+      "riesgos": "APRISIONAMIENTO DE CSG.",
+      "mitigacion": "VERIFICAR T&D DE CORRIDA DE CSG.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 147,
+      "actividad": "411 -ENTUBACIÓN TRAMO AISLACIÓN",
+      "riesgos": "PERDIDA DE CSG POR TORQUE INCORRECTO.",
+      "mitigacion": "VERIFICAR TORQUE SEGÚN PROGRAMA. CORRECTA LIMPIEZA DE ROSCAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 148,
+      "actividad": "411 -ENTUBACIÓN TRAMO AISLACIÓN",
+      "riesgos": "GOLPES, PROYECCIÓN DE PARTÍCULAS.",
+      "mitigacion": "LIBERAR ZONA DE TRABAJO. NO EXPONERSE A LA LÍNEA DE FUEGO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 149,
+      "actividad": "411 -ENTUBACIÓN TRAMO AISLACIÓN",
+      "riesgos": "GOLPES Y APRISIONAMIENTOS.",
+      "mitigacion": "COORDINACIÓN DE TAREAS. USO DE EPP ADECUADOS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 150,
+      "actividad": "411 -ENTUBACIÓN TRAMO AISLACIÓN",
+      "riesgos": "PERDIDA DE CAÑERÍA.",
+      "mitigacion": "UTILIZAR COLLARIN DE SEGURIDAD LOS PRIMEROS 200 M.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 151,
+      "actividad": "411 -ENTUBACIÓN TRAMO AISLACIÓN",
+      "riesgos": "DESCONTROL DE POZO. INFLUJO DURANTE ENTUBACION.",
+      "mitigacion": "VERIFICAR ALINEACION EN CHOKE MANIFOLD. CONTROL CON TRIP TANK.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 152,
+      "actividad": "411 -ENTUBACIÓN TRAMO AISLACIÓN",
+      "riesgos": "CAÍDAS DE ELEMENTOS EN ALTURA.",
+      "mitigacion": "VERIFICAR CHECK LIST PRE OPERATIVO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 153,
+      "actividad": "414 -CEMENTACIÓN TRAMO AISLACIÓN",
+      "riesgos": "EXPOSICIÓN A LÍNEAS DE ALTA PRESIÓN Y RUIDO.",
+      "mitigacion": "VERIFICAR CERTIFICACIONES. UTILIZAR EPP'S OBLIGATORIOS. EVITAR LA LINEA DE FUEGO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 154,
+      "actividad": "414 -CEMENTACIÓN TRAMO AISLACIÓN",
+      "riesgos": "DERRAMES.",
+      "mitigacion": "VERIFICAR CERTIFICACIONES Y CONEXIONADO DE CABEZA DE CEMENTACIÓN.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 155,
+      "actividad": "414 -CEMENTACIÓN TRAMO AISLACIÓN",
+      "riesgos": "GOLPES Y CAÍDAS DE ELEMENTOS EN ALTURA.",
+      "mitigacion": "VERIFICAR CHECK LIST PRE OPERATIVO. NO EXPONERSE A LA LINEA DE FUEGO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 156,
+      "actividad": "414 -CEMENTACIÓN TRAMO AISLACIÓN",
+      "riesgos": "COLISION CON VEHICULOS.",
+      "mitigacion": "UTILIZAR SEÑALERO DURANTE MONTAJE DE SET DE CEMENTACION.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 157,
+      "actividad": "414 -CEMENTACIÓN TRAMO AISLACIÓN",
+      "riesgos": "INFLUJO DURANTE Y POST OPERACIÓN.",
+      "mitigacion": "VERIFICAR DENSIDAD DE LECHADAS. EN CASO DE INFLUJO APLICAR CIERRE DURO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 158,
+      "actividad": "414 -CEMENTACIÓN TRAMO AISLACIÓN",
+      "riesgos": "CARGAS SUSPENDIDAS",
+      "mitigacion": "USO DE RETENIDA. CORRECTO ESLINGADO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 159,
+      "actividad": "777 -VINCULACION CON CABEZAL WENLEN, MMA. MONTAJE SECCION C",
+      "riesgos": "CAIDA DE OTRO NIVEL.",
+      "mitigacion": "ASIGNACIÓN DE ROLES. NO POSICIONARSE EN LÍNEA DE FUEGO.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 160,
+      "actividad": "777 -VINCULACION CON CABEZAL WENLEN, MMA. MONTAJE SECCION C",
+      "riesgos": "ATRAPAMIENTO.",
+      "mitigacion": "ASIGNACIÓN DE ROLES Y POSICIONAMIENTO DURANTE EL MONTAJE.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 161,
+      "actividad": "777 -VINCULACION CON CABEZAL WENLEN, MMA. MONTAJE SECCION C",
+      "riesgos": "CAIDA Y GOLPE POR OBJETO.",
+      "mitigacion": "USO DE RETENIDA. REVISION DE FAJAS Y ESLINGAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 162,
+      "actividad": "777 -VINCULACION CON CABEZAL WENLEN, MMA. MONTAJE SECCION C",
+      "riesgos": "CARGAS SUSPENDIDAS.",
+      "mitigacion": "USO DE RETENIDA. REVISION DE ESTADO VISUAL DE ESLINGAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 163,
+      "actividad": "777 -VINCULACION CON CABEZAL WENLEN, MMA. MONTAJE SECCION C",
+      "riesgos": "APRISIONAMIENTO DE MANOS.",
+      "mitigacion": "USO DE HERRAMIENTAS HOMOLOGADAS. AMARRE DE HERRAMIENTAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 164,
+      "actividad": "777 -VINCULACION CON CABEZAL WENLEN, MMA. MONTAJE SECCION C",
+      "riesgos": "PROYECCIÓN DE FLUIDO A PRESIÓN.",
+      "mitigacion": "USO DE ANILLO SEGÚN TIPO DE CABEZAL. NO AJUSTAR LÍNEAS PRESURIZADAS.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 165,
+      "actividad": "777 -VINCULACION CON CABEZAL WENLEN, MMA. MONTAJE SECCION C",
+      "riesgos": "CARGA SUSPENDIDA",
+      "mitigacion": "UTILIZAR SEÑALERO. ESLINGA/FAJA CERTIFICADA.",
+      "seccion": "AISLACIÓN"
+    },
+    {
+      "id": 183,
+      "actividad": "777 -VINCULACION CON CABEZAL WENLEN, MMA. MONTAJE SECCION C",
+      "riesgos": "GOLPE CONTRA SECCION A",
+      "mitigacion": "SETEAR PESO MAXIMO EN AMPHION. REALIZAR MOVIMIENTOS EN MODO LENTO.",
+      "seccion": ""
+    },
+    {
+      "id": 184,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "DAÑO DE PIN/BOX POR DESALINEACIÓN.",
+      "mitigacion": "VERIFICAR ALINEACIÓN DE EQUIPO PREVIO A ENTUBAR CWD.",
+      "seccion": ""
+    },
+    {
+      "id": 185,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "APRISIONAMIENTO DE CASING.",
+      "mitigacion": "CUMPLIR CON PROGRAMA DE LODO. NO DEJAR CSG ESTÁTICO.",
+      "seccion": ""
+    },
+    {
+      "id": 186,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "FALLA EN CDS/CRT.",
+      "mitigacion": "CONTAR CON CRT/CDS DE BACK UP.",
+      "seccion": ""
+    },
+    {
+      "id": 187,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "EXPOSICIÓN A GOLPES POR OBJETOS.",
+      "mitigacion": "LIBERAR ZONA DE TRABAJO. NO EXPONERSE A LA LÍNEA DE FUEGO.",
+      "seccion": ""
+    },
+    {
+      "id": 188,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "ACTIVACIÓN DE DISCO DE RUPTURA.",
+      "mitigacion": "VERIFICAR LÍMITE DE PRESION DEL DISCO DE RUPTURA.",
+      "seccion": ""
+    },
+    {
+      "id": 189,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "DESVINCULACIÓN DE CASING (PESCA)",
+      "mitigacion": "RESPETAR RANGO OPERATIVO DE TORQUE. UTILIZAR GRASA ADECUADA.",
+      "seccion": ""
+    },
+    {
+      "id": 190,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "CAÍDAS DE ELEMENTOS EN ALTURA.",
+      "mitigacion": "VERIFICACIÓN DE SUJECIÓN DE ELEMENTOS EN ALTURA.",
+      "seccion": ""
+    },
+    {
+      "id": 191,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "DAÑO DE CASING POR INCORRECTO MANIPULEO.",
+      "mitigacion": "RESPETAR BUENAS PRACTICAS DE MANIPULEO.",
+      "seccion": ""
+    },
+    {
+      "id": 192,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "VIBRACIONES.",
+      "mitigacion": "RESPETAR WOB-RPM SEGÚN PROGRAMA.",
+      "seccion": ""
+    },
+    {
+      "id": 193,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "CAIDA DE OBJETOS DENTRO DE CSG.",
+      "mitigacion": "MANTENER ORDEN Y LIMPIEZA EN BOCA DE POZO.",
+      "seccion": ""
+    },
+    {
+      "id": 194,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "ASENTAMIENTO DE PESO POR ENCIMA DEL PERMITIDO.",
+      "mitigacion": "SETEAR PARAMETROS Y ALARMAS EN CADA CAMBIO DE TURNO.",
+      "seccion": ""
+    },
+    {
+      "id": 195,
+      "actividad": "53 - PERFORACIÓN CWD TRAMO GUIA",
+      "riesgos": "INFLUJO PERFORANDO.",
+      "mitigacion": "CONTROLAR NIVEL DE BODEGA. VERIFICAR DENSIDAD ACORDE A PROGRAMA.",
+      "seccion": ""
+    },
+    {
+      "id": 171,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "DAÑO DE PIN/BOX POR DESALINEACION.",
+      "mitigacion": "VERIFICAR ALINEACION DE EQUIPO PREVIO A ENTUBAR CWD.",
+      "seccion": ""
+    },
+    {
+      "id": 172,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "APRISIONAMIENTO DE CASING.",
+      "mitigacion": "CUMPLIR CON PROGRAMA DE LODO. NO DEJAR CSG ESTÁTICO.",
+      "seccion": ""
+    },
+    {
+      "id": 173,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "FALLA EN CDS/CRT.",
+      "mitigacion": "CONTAR CON CRT/CDS DE BACK UP.",
+      "seccion": ""
+    },
+    {
+      "id": 174,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "EXPOSICIÓN A GOLPES Y PROYECCIÓN DE PARTÍCULAS.",
+      "mitigacion": "LIBERAR ZONA DE TRABAJO. NO EXPONERSE A LÍNEA DE FUEGO.",
+      "seccion": ""
+    },
+    {
+      "id": 175,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "ACTIVACION DE DISCO DE RUPTURA.",
+      "mitigacion": "CONSIDERAR LIMITE DE PRESION DEL DISCO DE RUPTURA.",
+      "seccion": ""
+    },
+    {
+      "id": 176,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "DESVINCULACION DE CASING (PESCA)",
+      "mitigacion": "RESPETAR RANGO OPERATIVO DE TORQUE. UTILIZAR GRASA ADECUADA.",
+      "seccion": ""
+    },
+    {
+      "id": 177,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "CAÍDAS DE ELEMENTOS EN ALTURA.",
+      "mitigacion": "VERIFICACIÓN DE SUJECIÓN DE ELEMENTOS EN ALTURA.",
+      "seccion": ""
+    },
+    {
+      "id": 178,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "DAÑO DE CASING POR INCORRECTO MANIPULEO.",
+      "mitigacion": "RESPETAR BUENAS PRACTICAS DE MANIPULEO.",
+      "seccion": ""
+    },
+    {
+      "id": 179,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "VIBRACIONES.",
+      "mitigacion": "RESPETAR WOB SEGÚN PROGRAMA.",
+      "seccion": ""
+    },
+    {
+      "id": 180,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "CAIDA DE OBJETOS DENTRO DE CSG.",
+      "mitigacion": "MANTENER ORDEN Y LIMPIEZA EN BOCA DE POZO.",
+      "seccion": ""
+    },
+    {
+      "id": 181,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "ASENTAMIENTO DE PESO POR ENCIMA DEL PERMITIDO.",
+      "mitigacion": "SETEAR PARAMETROS OPERATIVOS Y ALARMAS.",
+      "seccion": ""
+    },
+    {
+      "id": 182,
+      "actividad": "385 - PERFORACIÓN CWD TRAMO AISLACIÓN",
+      "riesgos": "INFLUJO PERFORANDO.",
+      "mitigacion": "VERIFICAR ALINEACIÓN DE CHOKE MANIFOLD PARA CIERRE DURO.",
+      "seccion": ""
+    },
+    {
+      "id": 166,
+      "actividad": "387 - PESCA PRODRIFT",
+      "riesgos": "PESCA HERRAMIENTA DE SLICKLINE.",
+      "mitigacion": "NO EXCEDER LIMITES OPERATIVOS. ORDEN Y LIMPIEZA EN BOCA DE POZO.",
+      "seccion": ""
+    },
+    {
+      "id": 167,
+      "actividad": "387 - PESCA PRODRIFT",
+      "riesgos": "ATRAPAMIENTO DE CABLE Y/O HERRAMIENTA",
+      "mitigacion": "REALIZAR PULL TEST SEGÚN PROGRAMA.",
+      "seccion": ""
+    },
+    {
+      "id": 168,
+      "actividad": "387 - PESCA PRODRIFT",
+      "riesgos": "CARGAS SUSPENDIDAS. CABLE EN TENSION.",
+      "mitigacion": "NO COLOCARSE DEBAJO DE CARGA SUSPENDIDA. USAR RETENIDA.",
+      "seccion": ""
+    },
+    {
+      "id": 169,
+      "actividad": "387 - PESCA PRODRIFT",
+      "riesgos": "CAÍDA DE ELEMENTOS DESDE ALTURA.",
+      "mitigacion": "COORDINACIÓN DE TAREAS. NO POSICIONARSE EN LÍNEA DE FUEGO.",
+      "seccion": ""
+    },
+    {
+      "id": 170,
+      "actividad": "387 - PESCA PRODRIFT",
+      "riesgos": "DESCONTROL POR INFLUJO.",
+      "mitigacion": "CONTROLAR NIVEL DE TRIP TANK. VERIFICAR DISPOSITIVO DE CORTE DE CABLE.",
+      "seccion": ""
+    }
+  ]
+}
